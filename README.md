@@ -61,6 +61,8 @@ $ npm run test:cov
 ## Postman example
 We Can import file on root to postman and test the endpoints.
 - CRUD USERS.postman_collection.json
+
+http://localhost:3000/api
 ---
 
 ## Support
