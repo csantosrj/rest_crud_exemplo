@@ -12,7 +12,7 @@ import {TypeOrmModule } from '@nestjs/typeorm';
       database: "example_db",
       entities: [__dirname + "/**/*.entity{.ts,.js}"],
       synchronize: true
-    })
+    }),
   ],
   controllers: [AppController],
   providers: [AppService],
